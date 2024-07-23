@@ -13,7 +13,8 @@ Nakon bildovanja(build solution) programa, otvaranje cmd u Debug folderu i unos 
 2. ### Mnozenje matrice sa matricom
     - Korišćeno je 4 procesa jer su matrice manjih dimenzija zbog lakše provere. Naravno program radi i za više procesa.
     - U suštini slično je odradjen zadatak kao i gore, korišćenjem grupnih komunikatora.
-![Result](Mnozenje%20matrice%20sa%20matricom/rezultat1.png)
+   
+![Result1](Mnozenje%20matrice%20sa%20matricom/rezultat1.png)
 
 3. ### Množenje matrice sa vektorom s tim što procesi dobijaju 2^rank vrsta
     - Tekst zadatka i rešenje prikazani u folderu
